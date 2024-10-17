@@ -7,15 +7,6 @@
 
 <p><em>I am a student of Computer Science and Technology at Guangzhou University.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
-## &#x1f4c8; My GitHub Stats
-
-<div style="display: flex; justify-content: center; align-items: center; margin-bottom: 20px;">
-  <a href="https://github.com/fengwm64/fengwm64" style="margin-right: 20px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengwm64&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Top Languages" />
-  </a>
-  
-  <a href="https://github.com/fengwm64/fengwm64">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fengwm64&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Feng Weiming's GitHub Stats" />
-  </a>
-</div>
-
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
