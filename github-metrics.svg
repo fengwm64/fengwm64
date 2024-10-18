@@ -1363,7 +1363,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 17 Oct 2024, 23:13:24
+                            On 17 Oct 2024, 23:21:42
                         </div>
                     </section>
                 </div>
@@ -1379,11 +1379,11 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">84271e50</span>
+                            <span class="code">8111a644</span>
                             <span class="code">README.md</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--3</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -1391,7 +1391,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,6 +7,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;p&gt;&lt;em&gt;I am a student of Computer Science and Technology at Guangzhou University.&lt;/a&gt;&lt;img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"&gt;&lt;/em&gt;&lt;/p&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;picture&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;img src="/github-metrics.svg" alt="Metrics"&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;/picture&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">![Metrics](https://metrics.lecoq.io/fengwm64?template=classic&amp;languages=1&amp;isocalendar=1&amp;base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&amp;base.indepth=false&amp;base.hireable=false&amp;base.skip=false&amp;isocalendar=false&amp;isocalendar.duration=half-year&amp;languages=false&amp;languages.ignored=html%2Ccss&amp;languages.limit=8&amp;languages.threshold=80%25&amp;languages.other=false&amp;languages.colors=github&amp;languages.sections=most-used&amp;languages.indepth=false&amp;languages.analysis.timeout=15&amp;languages.analysis.timeout.repositories=7.5&amp;languages.categories=markup%2C%20programming&amp;languages.recent.categories=markup%2C%20programming&amp;languages.recent.load=300&amp;languages.recent.days=14&amp;config.timezone=Asia%2FShanghai)
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,4 +7,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;p&gt;&lt;em&gt;I am a student of Computer Science and Technology at Guangzhou University.&lt;/a&gt;&lt;img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"&gt;&lt;/em&gt;&lt;/p&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">![Metrics](https://metrics.lecoq.io/fengwm64?template=classic&amp;languages=1&amp;isocalendar=1&amp;base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&amp;base.indepth=false&amp;base.hireable=false&amp;base.skip=false&amp;isocalendar=false&amp;isocalendar.duration=half-year&amp;languages=false&amp;languages.ignored=html%2Ccss&amp;languages.limit=8&amp;languages.threshold=80%25&amp;languages.other=false&amp;languages.colors=github&amp;languages.sections=most-used&amp;languages.indepth=false&amp;languages.analysis.timeout=15&amp;languages.analysis.timeout.repositories=7.5&amp;languages.categories=markup%2C%20programming&amp;languages.recent.categories=markup%2C%20programming&amp;languages.recent.load=300&amp;languages.recent.days=14&amp;config.timezone=Asia%2FShanghai)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">![Metrics](https://metrics.lecoq.io/fengwm64?template=classic&amp;base.header=0&amp;languages=1&amp;isocalendar=1&amp;base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&amp;base.indepth=false&amp;base.hireable=false&amp;base.skip=false&amp;isocalendar=false&amp;isocalendar.duration=half-year&amp;languages=false&amp;languages.ignored=html%2Ccss%2Cjupyter&amp;languages.limit=8&amp;languages.threshold=100&amp;languages.other=false&amp;languages.colors=github&amp;languages.sections=most-used&amp;languages.indepth=false&amp;languages.analysis.timeout=15&amp;languages.analysis.timeout.repositories=7.5&amp;languages.categories=markup%2C%20programming&amp;languages.recent.categories=markup%2C%20programming&amp;languages.recent.load=300&amp;languages.recent.days=14&amp;config.timezone=Asia%2FShanghai)
 </span></span></code>
                         </div>
                     </section>
@@ -1399,7 +1399,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2024, 13:18:28 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2024, 14:25:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
