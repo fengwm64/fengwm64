@@ -34,13 +34,6 @@ jobs:
           plugin_code_lines: 12
           plugin_code_load: 400
           plugin_code_visibility: public
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -48,9 +41,14 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html,css,Jupyter Notebook
-          plugin_languages_limit: 8
+          plugin_languages_ignored: HTML,CSS,JavaScript,SCSS,Jupyter Notebook
+          plugin_languages_limit: 5
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_pinned: 0
+          plugin_repositories_random: 0
+          plugin_repositories_starred: 2
